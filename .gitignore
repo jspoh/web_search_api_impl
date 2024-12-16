@@ -1,2 +1,4 @@
 *.json
 constants.py
+__pycache__/
+/venv
